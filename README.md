@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xuechao Zou</h1>
 <h3 align="center">A Ph.D Student of Beijing Jiaotong University</h3>
 
-- 🌱 I’m currently learning **Remote Sensing Image Understanding and Multi Modal Image Generation**
+- 🌱 I’m currently learning **Remote Sensing Image Processing and Multi Modal Vision Generation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/XavierJiezou?tab=repositories](https://github.com/XavierJiezou?tab=repositories)
 
