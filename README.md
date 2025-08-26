@@ -2,10 +2,13 @@
 <h3 align="center">A Ph.D Student of Beijing Jiaotong University</h3>
 
 <div align="center">
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XavierJiezou.XavierJiezou)&nbsp;&nbsp;&nbsp; 
 ![](https://img.shields.io/github/followers/XavierJiezou?color=pink)&nbsp;&nbsp;&nbsp; 
 ![](https://img.shields.io/github/stars/XavierJiezou?logo=github&color=pink)
+
 </div>
+
 
 - 🌱 I’m currently learning **Remote Sensing Image Processing and Multi Modal Vision Generation**
 
