@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Xuechao Zou</h1>
 <h3 align="center">A Ph.D Student of Beijing Jiaotong University</h3>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JusperLee.JusperLee)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/JusperLee?color=pink
-)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/JusperLee?logo=github&color=pink) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=XavierJiezou.XavierJiezou)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/followers/XavierJiezou?color=pink
+)&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/XavierJiezou?logo=github&color=pink) 
 
 - 🌱 I’m currently learning **Remote Sensing Image Processing and Multi Modal Vision Generation**
 
