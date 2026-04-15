@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xuechao Zou (邹学超), WeChat-微信: XavierJiezou</h1>
+<h1 align="center">Hi 👋, I'm Xuechao Zou (邹学超)</h1>
 <h3 align="center">A Ph.D Student of Beijing Jiaotong University</h3>
 
 <div align="center">
