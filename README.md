@@ -10,7 +10,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Remote Sensing Image Processing and Multi Modal Vision Generation**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/XavierJiezou?tab=repositories](https://github.com/XavierJiezou?tab=repositories)
 
